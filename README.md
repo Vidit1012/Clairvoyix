@@ -10,7 +10,7 @@
 
 Clairvoyix is a **private AI & GPU compute platform** built in collaboration with Advance2000. It lets organizations run GPU-accelerated AI workloads without any technical setup — no cloud dependencies, no third-party data sharing.
 
-> **Note:** Source code is proprietary and confidential. This repository contains the project poster presented at UB's CSE showcase.
+> **Note:** Source code is proprietary and confidential. This repository contains the project poster presented at UB's CSE Demo Day.
 
 ---
 
@@ -31,4 +31,4 @@ Python · Flask · Docker · PostgreSQL · CUDA · SAM2 · BART · T5 · React �
 
 ## Project Poster
 
-See [`A2K_Poster.pdf`](./A2K_Poster.pdf) for the full project poster presented at the UB CSE showcase.
+See [`A2K_Poster.pdf`](./A2K_Poster.pdf) for the full project poster presented at the UB CSE Demo Day 2025.
